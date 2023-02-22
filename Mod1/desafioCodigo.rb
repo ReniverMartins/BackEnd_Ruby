@@ -13,4 +13,3 @@ puts
     puts
     puts(".::: Usuario Cadastrado com sucesso!! :::.")
     puts("#{"Nome:"+primNome+" Sobrenome:"+secNome+" Idade:"+idade+" anos"}")
-    puts
